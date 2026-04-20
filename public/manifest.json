@@ -1,0 +1,16 @@
+{
+  "name": "VenueFlow OS Fan Portal",
+  "short_name": "VenueFlow",
+  "description": "Smart Stadium Management System",
+  "start_url": "/fan",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
