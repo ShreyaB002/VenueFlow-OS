@@ -56,4 +56,4 @@ npm run dev
 Focus: Improving crowd movement, waiting times, and real-time coordination at physical venues using AI and Google Cloud.
 
 ---
-*Built with ❤️ by Shreya Bhuimbar*
+*Built by Shreya Bhuimbar*
